@@ -2,7 +2,7 @@
 This project demonstrates how to use K-Nearest Neighbors (KNN) for both classification and regression to predict stock price movements based on historical price patterns. The dataset used is for Tata Consumer Products Ltd., retrieved from Yahoo Finance, and features were engineered to capture meaningful patterns from price volatility and changes.
 
 #### 🧠 Project Objective
--The goal is to:
+The goal is to:
 - Classify whether a stock should be bought or sold the next day.
 - Predict the actual closing price using KNN Regression.
 - This is achieved by leveraging engineered features that capture the momentum and volatility of the stock prices.
